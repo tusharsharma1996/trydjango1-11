@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curre",
+				"currentTime"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"hou",
+				"hour1"
+			],
+			[
+				"ho",
+				"hour"
+			],
+			[
+				"temp",
+				"tempArray"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"curr",
+				"currentTime"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sub",
+				"subText"
+			],
+			[
+				"SRT",
+				"SRT_STATE_TEXT"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"pre",
+				"predicted_price"
+			],
+			[
+				"na",
+				"nabla_w"
+			],
+			[
+				"ac",
+				"activations"
+			],
+			[
+				"nabla",
+				"nabla_w"
+			],
+			[
+				"mini",
+				"mini_batch"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"lef",
+				"leftViewUtil"
+			],
+			[
+				"le",
+				"leftViewUtil"
+			],
+			[
+				"left",
+				"leftView"
+			],
+			[
+				"max",
+				"max2"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"a",
+				"__a"
+			],
+			[
+				"node",
+				"nodeStack"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/pro/django-hospital-master/django_hospital/urls.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/pro/django-hospital-master/django_hospital/static/js/main.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Scripts/django-admin.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Python35/Dev/trydjango1-11/src/requirements.txt",
+		"/C/Python35/Dev/trydjango1-11/src/muypicky/settings/local.py",
+		"/C/Python35/Dev/trydjango1-11/src/muypicky/settings/production.py",
+		"/C/Python35/Dev/trydjango1-11/src/muypicky/settings/base.py",
+		"/C/Python35/Dev/trydjango1-11/src/muypicky/settings/__init__.py",
+		"/C/Python35/Dev/cfehome/Scripts/django-admin.py",
+		"/E/sem7/capstone/Text-to-Sign-Language-master/animationPlayer.php",
+		"/C/xampp/htdocs/sgl/js/sigmlFiles.json",
+		"/C/xampp/htdocs/sgl/test/test2.php",
+		"/E/sem7/capstone/Text-to-Sign-Language-master/API/sigmlAPI.php",
+		"/C/xampp/htdocs/sgl/test/h2sinsert.py",
+		"/C/xampp/htdocs/sgl/test/index.php",
+		"/C/xampp/htdocs/sgl/js/player.js",
+		"/C/xampp/htdocs/sgl/js/animationPlayer.js",
+		"/C/xampp/htdocs/signLanguage/index.php",
+		"/C/xampp/htdocs/sgl/avatar.php",
+		"/C/xampp/htdocs/sgl/include.php",
+		"/E/sem7/capstone/Text-to-Sign-Language-master/hamnosys/import.py",
+		"/E/sem7/capstone/Text-to-Sign-Language-master/avatar.php",
+		"/C/xampp/htdocs/sgl/avatardemo.php",
+		"/C/xampp/htdocs/sg/avatar.php",
+		"/C/pro/mgc-django/fileupload/urls.py",
+		"/C/pro/mgc-django/fileupload/views.py",
+		"/C/pro/Employe-Ease-master/EmployeEase/urls.py",
+		"/C/pro/Employe-Ease-master/Employe/views.py",
+		"/C/xampp/htdocs/signLanguage/yo.php",
+		"/E/sem7/capstone/Text-to-Sign-Language-master/index.php",
+		"/C/xampp/htdocs/signLanguage/upload_file.php",
+		"/C/xampp/htdocs/signLanguage/Captions.php",
+		"/C/xampp/htdocs/signLanguage/subt.php",
+		"/C/xampp/htdocs/signLanguage/index.html",
+		"/E/deepLearning/gender_classifier.py",
+		"/E/deepLearning/neural-networks-and-deep-learning-master/src/network3.py",
+		"/E/deepLearning/neural-networks-and-deep-learning-master/src/network2.py",
+		"/E/deepLearning/neural-networks-and-deep-learning-master/src/mnist_loader.py",
+		"/E/summer project/housing/home.php",
+		"/E/summer project/housing/data.php",
+		"/E/summer project/housing/complaint.php",
+		"/E/summer project/housing/hall.php",
+		"/E/summer project/housing/admin.php",
+		"/C/Users/tushar/AppData/Local/Temp/Rar$DIa0.583/lstmstock.py",
+		"/C/Users/tushar/AppData/Local/Temp/Rar$DIa0.192/lstmstock.py",
+		"/C/Users/tushar/AppData/Local/Temp/Rar$DIa0.383/process_image.py",
+		"/E/sem7/projcts/predicting_stock_prices-master/demo.py",
+		"/C/Users/tushar/Downloads/script.py",
+		"/E/summer project/housing/voting.php",
+		"/E/summer project/housing/index.php",
+		"/E/conv.py",
+		"/E/lo.py",
+		"/C/Users/tushar/Downloads/contextFreeGrammar.py",
+		"/E/deepLearning/handWriting.py",
+		"/E/edit.py",
+		"/E/deepLearning/neural-networks-and-deep-learning-master/src/conv.py",
+		"/C/Python35/bigram.py",
+		"/E/hand.py",
+		"/C/Users/tushar/Downloads/viterbi.py",
+		"/E/eval1.py",
+		"/E/eval.py",
+		"/E/reg1.py",
+		"/E/tr.py",
+		"/E/nlp_assign/p7.py",
+		"/E/reg.py",
+		"/E/nm.py",
+		"/E/com.py",
+		"/C/Python27/Lib/site-packages/nltk/data.py",
+		"/E/assign/code.py",
+		"/E/assign/binary.py",
+		"/E/nlp_assign/p9.py",
+		"/E/nlp_assign/p6.py",
+		"/E/nlp_assign/p4.py",
+		"/E/nlp_assign/p3.py",
+		"/E/nlp_assign/p2.py",
+		"/E/q.py",
+		"/E/abc.py",
+		"/E/a.py",
+		"/E/stack.py",
+		"/C/Go/hello.go",
+		"/C/xampp/htdocs/auction/admin/login.php",
+		"/C/xampp/htdocs/auction/admin/city/index.php",
+		"/C/xampp/htdocs/auction/admin/include/template.php",
+		"/C/xampp/htdocs/auction/admin/city/add.php",
+		"/C/xampp/htdocs/auction/auctions.php",
+		"/C/xampp/htdocs/auction/banks.php",
+		"/C/xampp/htdocs/auction/admin/index.php",
+		"/C/xampp/htdocs/auction/admin/library/functions.php",
+		"/C/xampp/htdocs/auction/list.php",
+		"/C/xampp/htdocs/auction/example.php",
+		"/C/xampp/htdocs/auction/City-List.php",
+		"/C/xampp/htdocs/auction/cities.php",
+		"/C/xampp/htdocs/auction/Bank-List.php",
+		"/C/xampp/htdocs/auction/auctions1.php",
+		"/C/xampp/htdocs/auction/index.php",
+		"/C/xampp/htdocs/auction/admin/config/index.php",
+		"/C/xampp/htdocs/auction/left.php",
+		"/C/xampp/htdocs/auction/library/database.php",
+		"/E/c codes/a.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"User-specif",
+			"User-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/pro/django-hospital-master/django_hospital/urls.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/pro/django-hospital-master/django_hospital/static/js/main.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Scripts/django-admin.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
